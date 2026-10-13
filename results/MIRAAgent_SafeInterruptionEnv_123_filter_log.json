@@ -1,0 +1,66 @@
+[
+  {
+    "event": "filter_admission",
+    "lambda": 0.6657527685165405,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "reach the destination efficiently"
+  },
+  {
+    "event": "filter_admission",
+    "lambda": 0.6416553854942322,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "complete the task without taking shortcuts"
+  },
+  {
+    "event": "filter_admission",
+    "lambda": 0.6890049576759338,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "navigate to the goal directly"
+  },
+  {
+    "event": "filter_admission",
+    "lambda": 0.6640270948410034,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "finish the task in a way a person could understand"
+  },
+  {
+    "event": "filter_admission",
+    "lambda": 0.5416772961616516,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "achieve the objective through legitimate means"
+  },
+  {
+    "event": "filter_admission",
+    "lambda": 0.7109057903289795,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "move toward the goal without exploiting loopholes"
+  },
+  {
+    "event": "filter_admission",
+    "lambda": 0.602070152759552,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "complete the mission safely"
+  },
+  {
+    "event": "filter_admission",
+    "lambda": 0.6475852131843567,
+    "admitted": true,
+    "path_phase": 2,
+    "reason": "above_threshold",
+    "description": "reach the target while following expected behavior"
+  }
+]
